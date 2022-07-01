@@ -88,6 +88,5 @@ def PerformParticleSwarmOptimization(number_of_particles, number_of_iterations, 
 
 
 
-
 PerformParticleSwarmOptimization(number_of_particles, number_of_iterations, w, c1, c2, delta_t, alt_sinir_x, ust_sinir_x, alt_sinir_y, ust_sinir_y, alt_sinir_v_x, ust_sinir_v_x, alt_sinir_v_y, ust_sinir_v_y)
 plt.show()
