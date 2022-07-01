@@ -22,7 +22,6 @@ alt_sinir_v_x=-1
 ust_sinir_v_x=1
 alt_sinir_v_y=-1
 ust_sinir_v_y=1
-
 def ParcaciklariIlklendir(alt_sinir_x, ust_sinir_x, alt_sinir_y, ust_sinir_y, alt_sinir_v_x, ust_sinir_v_x, alt_sinir_v_y, ust_sinir_v_y):  
 
     global positions_matrix,velocities_matrix
